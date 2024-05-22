@@ -21,3 +21,4 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/blob/master/rule/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/BiliBili/BiliBili_Resolve.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Netflix/Netflix_Resolve.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Steam/Steam.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Steam/Steam.list
