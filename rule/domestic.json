@@ -2,8 +2,6 @@
   "rules": [
     {
       "domain": [
-        "cdn.bootcdn.net",
-        "cdn.bootcss.com",
         "cn.download.nvidia.com",
         "lv.queniujq.cn",
         "ocsp.digicert.cn",
@@ -250,6 +248,7 @@
         "didistatic.com",
         "digicert.cn",
         "dingtalk.com",
+        "dizzylab.net",
         "dl.bscstorage.net",
         "dl.delivery.mp.microsoft.com",
         "dl.eccdnx.com",
@@ -628,8 +627,6 @@
         "speedtest.cn",
         "sspai.com",
         "staticdn.net",
-        "staticfile.net",
-        "staticfile.org",
         "steam.clngaa.com",
         "steam.ksyna.com",
         "steamchina.com",
