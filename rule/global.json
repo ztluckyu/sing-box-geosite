@@ -2,7 +2,6 @@
   "rules": [
     {
       "domain": [
-        "addons.mozilla.org",
         "ccmdl.adobe.com",
         "ees.elsevier.com",
         "media.steampowered.com",
@@ -186,6 +185,7 @@
         "dnsleaktest.com",
         "dnsleaktest.org",
         "doujins.com",
+        "downdetector.com",
         "dribbble.com",
         "dropbox-dns.com",
         "dropbox.com",
