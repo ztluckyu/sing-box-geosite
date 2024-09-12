@@ -36,3 +36,4 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge
 https://ruleset.skk.moe/Clash/non_ip/stream_tw.txt
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMaxNoIP/ChinaMaxNoIP_All.list
 https://ruleset.skk.moe/Clash/non_ip/microsoft_cdn.txt
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list
