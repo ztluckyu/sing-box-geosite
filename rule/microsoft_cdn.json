@@ -2,7 +2,9 @@
   "rules": [
     {
       "domain": [
+        "res-1.cdn.office.net",
         "res.cdn.office.net",
+        "statics.teams.cdn.office.net",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ]
     },
