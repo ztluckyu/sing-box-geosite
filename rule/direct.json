@@ -24,6 +24,7 @@
     {
       "domain_suffix": [
         "52pt.site",
+        "_adb-tls-connect._tcp",
         "_hotspot_.m2m",
         "acg.rip",
         "acm.org",
@@ -53,6 +54,7 @@
         "bthub.home",
         "btschool.club",
         "cabdirect.org",
+        "captive.apple.com",
         "ccfbits.org",
         "cgpeers.com",
         "chdbits.co",
@@ -168,6 +170,7 @@
         "scopus.com",
         "sdbits.org",
         "securelogin.com.cn",
+        "setapp.click",
         "setmeup.arubanetworks.com",
         "skyey2.com",
         "soulvoice.club",
