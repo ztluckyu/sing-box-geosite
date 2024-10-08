@@ -4,8 +4,6 @@
       "domain": [
         "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com",
         "4gtvfreepcvod-cds.cdn.hinet.net",
-        "apm-misaka.biliapi.net",
-        "bahamut.akamaized.net",
         "bcbolthboa-a.akamaihd.net",
         "cf-images.ap-southeast-1.prod.boltdns.net",
         "d3c7rimkq79yfu.cloudfront.net",
@@ -25,9 +23,7 @@
         "manifest.prod.boltdns.net",
         "players.brightcove.net",
         "s3-ap-southeast-1.amazonaws.com",
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "upos-bstar-mirrorakam.akamaized.net",
-        "upos-bstar1-mirrorakam.akamaized.net"
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ]
     },
     {
@@ -39,8 +35,6 @@
       "domain_suffix": [
         "4gtv.tv",
         "bahamut.com.tw",
-        "bilibili.tv",
-        "biliintl.com",
         "gamer.com.tw",
         "hboasia.com",
         "kk.stream",
