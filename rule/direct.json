@@ -24,7 +24,8 @@
     {
       "domain_suffix": [
         "52pt.site",
-        "_adb-tls-connect._tcp",
+        "_msdcs",
+        "_tcp",
         "acg.rip",
         "acm.org",
         "aidoru-online.me",
@@ -42,6 +43,7 @@
         "bibliotik.me",
         "blackwell-synergy.com",
         "blutopia.xyz",
+        "bogon",
         "broadcasthe.net",
         "bt.byr.cn",
         "bt.neu6.edu.cn",
@@ -142,6 +144,7 @@
         "researchgate.net",
         "router",
         "router.asus.com",
+        "router.com",
         "routerlogin.com",
         "routerlogin.net",
         "sciencemag.org",
