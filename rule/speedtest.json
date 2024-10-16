@@ -2,6 +2,9 @@
   "rules": [
     {
       "domain": [
+        "hizbursa.durunet.com.tr",
+        "hizistanbul1.durunet.com.tr",
+        "st.mow.gin.ru",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ]
     },
