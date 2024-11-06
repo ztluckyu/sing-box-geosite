@@ -4,12 +4,14 @@
       "domain": [
         "adanaspeedtest.fixnet.com.tr",
         "adn1speedtest.turktelekom.com.tr",
+        "alyasmeen.radius2online.com.tr",
         "babeltik.com",
         "cnk1speedtest.turktelekom.com.tr",
         "csfw.fj.chinamobile.com",
         "hizbursa.durunet.com.tr",
         "hizistanbul1.durunet.com.tr",
         "hytron-hk.hytron.io",
+        "ipl3pt.fft.ops.eu.uu.net",
         "kadoshspeed.kadoshnet.com",
         "lg-tok.fdcservers.net",
         "ookla.sh.com.tr",
@@ -31,6 +33,7 @@
         "speedtest.linknetbv.com",
         "speedtest.lodosnet.com.tr",
         "speedtest.nyc.macarne.com",
+        "speedtest.pulse.web.tr",
         "speedtest.sercomm.com",
         "speedtest.spd.net.tr",
         "speedtest.ty7.macarne.com",
@@ -40,7 +43,9 @@
         "st.mow.gin.ru",
         "stosat-rvlt-01.sys.comcast.net",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "velocidade.phinfortelecom.com.br"
+        "velocidade.phinfortelecom.com.br",
+        "zdt-iptv.highspeed.com.tr",
+        "zeusnet.almotafael.com"
       ]
     },
     {
