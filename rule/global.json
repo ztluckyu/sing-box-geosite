@@ -126,6 +126,8 @@
         "brave.com",
         "browserleaks.com",
         "browserleaks.org",
+        "bsky.app",
+        "bsky.network",
         "businessinsider.com",
         "buyee.jp",
         "bwh1.net",
@@ -562,8 +564,6 @@
         "signal.art",
         "signal.org",
         "signalusers.org",
-        "singlelogin.re",
-        "singlelogin.se",
         "sketch.cloud",
         "sketch.com",
         "skk.moe",
@@ -726,10 +726,8 @@
         "youtube.com",
         "yt.be",
         "ytimg.com",
-        "z-library.se",
         "zaobao.com.sg",
-        "zendesk.com",
-        "zlibrary-global.se"
+        "zendesk.com"
       ]
     }
   ],
