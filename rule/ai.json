@@ -5,6 +5,7 @@
         "ai.google.dev",
         "alkalicore-pa.clients6.google.com",
         "alkalimakersuite-pa.clients6.google.com",
+        "api.github.com",
         "gateway.ai.cloudflare.com",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ]
@@ -31,6 +32,7 @@
         "gemini.google.com",
         "generativeai.google",
         "generativelanguage.googleapis.com",
+        "groq.com",
         "jasper.ai",
         "makersuite.google.com",
         "meta.ai",
