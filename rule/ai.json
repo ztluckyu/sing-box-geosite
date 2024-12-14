@@ -4,7 +4,6 @@
       "domain": [
         "ai.google.dev",
         "alkalicore-pa.clients6.google.com",
-        "alkalimakersuite-pa.clients6.google.com",
         "api.github.com",
         "gateway.ai.cloudflare.com",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
@@ -12,6 +11,7 @@
     },
     {
       "domain_keyword": [
+        "alkalimakersuite-pa.clients6.google.com",
         "openai"
       ]
     },
