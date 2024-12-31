@@ -6,11 +6,6 @@
       ]
     },
     {
-      "domain_keyword": [
-        "abematv.akamaized.net"
-      ]
-    },
-    {
       "domain_suffix": [
         "abema-tv.com",
         "abema.io",
@@ -31,6 +26,7 @@
         "hayabusa.media",
         "hjholdings.jp",
         "hulu.jp",
+        "location-plus.nhk.jp",
         "nicovideo.jp",
         "socdm.com",
         "tver.jp",
