@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "//",
         "40gspeedtest.mnsi.net",
         "5g.shunicomtest.com",
         "a-speedtest.brasildigital.net.br",
@@ -21,7 +22,6 @@
         "csfw.fj.chinamobile.com",
         "cugspeed.chinaunicomglobal.com",
         "dallas1.cabospeed.com",
-        "de.speedtest.waicore.com",
         "digital.babeltik.com",
         "dllstx-ookla1.vyvebroadband.net",
         "erz1speedtest.turktelekom.com.tr",
@@ -423,6 +423,7 @@
         "speedtest.telstra.net",
         "speedtest.telus.com",
         "speedtest.vodafone.com.au",
+        "speedtest.waicore.com",
         "speedtest.warian.net",
         "speedtest.windstream.net",
         "speedtestcustom.com",
