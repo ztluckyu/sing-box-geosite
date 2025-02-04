@@ -26,6 +26,8 @@
       "domain_regex": [
         "^[\w.-]*?\.ffzy-online[\w.-]\.com$",
         "^[\w.-]*?\.ffzy-play[\w.-]\.com$",
+        "^[\w.-]*?\.lz-cdn[\w.-][\w.-]\.com$",
+        "^[\w.-]*?\.lz-cdn[\w.-]\.com$",
         "^[\w.-]*?\.qhimgs[\w.-]\.com$"
       ]
     },
