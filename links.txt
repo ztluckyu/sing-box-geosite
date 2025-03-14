@@ -37,3 +37,12 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge
 https://ruleset.skk.moe/Clash/non_ip/microsoft_cdn.txt
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Google/Google.list
 https://ruleset.skk.moe/Clash/non_ip/ai.txt
+https://raw.githubusercontent.com/metowolf/iplist/master/data/country/GB.txt
+https://raw.githubusercontent.com/metowolf/iplist/master/data/country/FR.txt
+https://raw.githubusercontent.com/metowolf/iplist/master/data/country/DE.txt
+https://raw.githubusercontent.com/metowolf/iplist/master/data/country/FI.txt
+https://raw.githubusercontent.com/metowolf/iplist/master/data/country/NL.txt
+https://raw.githubusercontent.com/metowolf/iplist/master/data/country/US.txt
+https://raw.githubusercontent.com/metowolf/iplist/master/data/country/CA.txt
+https://raw.githubusercontent.com/metowolf/iplist/master/data/country/AT.txt
+https://raw.githubusercontent.com/metowolf/iplist/master/data/country/CN.txt
