@@ -37,12 +37,6 @@
       ]
     },
     {
-      "domain_regex": [
-        "^2[\w.-]\.172\.in-addr\.arpa$",
-        "^[\w.-]*?\.2[\w.-]\.172\.in-addr\.arpa$"
-      ]
-    },
-    {
       "domain_suffix": [
         "10.in-addr.arpa",
         "16.172.in-addr.arpa",
