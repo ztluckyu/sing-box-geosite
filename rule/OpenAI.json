@@ -56,11 +56,8 @@
     {
       "domain_keyword": [
         "Claude",
-        "Grok",
         "alkalimakersuite-pa.clients6.google.com",
         "anthropic",
-        "claude",
-        "cloudflare",
         "colab",
         "developerprofiles",
         "generativelanguage",
@@ -70,8 +67,7 @@
         "openaiapi",
         "openaicom",
         "openaicom-api",
-        "perplexity",
-        "prodregistryv"
+        "perplexity"
       ]
     },
     {
@@ -144,7 +140,6 @@
         "livekit.cloud",
         "makersuite.google.com",
         "meta.ai",
-        "meta.com",
         "midjourney.com",
         "notebooklm.google",
         "notebooklm.google.com",
@@ -171,7 +166,6 @@
         "stripe.com",
         "stripe.network",
         "turn.livekit.cloud",
-        "vercel.app",
         "vimeo.com",
         "vimeocdn.com",
         "x.ai"
@@ -180,7 +174,6 @@
     {
       "ip_cidr": [
         "104.238.150.13/32",
-        "129.146.3.78/32",
         "143.110.232.239/32",
         "143.198.200.27/32",
         "159.89.204.203/32",
