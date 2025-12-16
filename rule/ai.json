@@ -12,6 +12,7 @@
         "api.jetbrains.ai",
         "gateway.ai.cloudflare.com",
         "jules.google.com",
+        "openrouter.ai",
         "robinfrontend-pa.googleapis.com"
       ]
     },
