@@ -159,7 +159,6 @@
         "dictate.ms",
         "dify.a",
         "dify.ai",
-        "difyai.com",
         "ditu.live.com",
         "dola.com",
         "doubleclick.net",
@@ -175,13 +174,11 @@
         "gemini.google.com",
         "generativeai.google",
         "generativelanguage.googleapis.com",
-        "genspark.ai",
         "githubcopilot.com",
         "google-analytics.com",
         "googleai.com",
         "googleapis.com",
         "googletagmanager.com",
-        "googleusercontent.com",
         "gpt3sandbox.com",
         "grazie.ai",
         "grazie.aws.intellij.net",
@@ -247,15 +244,13 @@
         "statsigapi.net",
         "stripe.com",
         "stripe.network",
-        "tktn.be",
         "together.xyz",
         "turn.livekit.cloud",
         "vimeo.com",
         "vimeocdn.com",
         "vulpes.one",
         "windsurf.ai",
-        "x.ai",
-        "x.com"
+        "x.ai"
       ]
     },
     {
