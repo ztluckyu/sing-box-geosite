@@ -41,7 +41,6 @@
         "msdn.download.prss.microsoft.com",
         "msdprod-ad.download.prss.microsoft.com",
         "msproduct.download.prss.microsoft.com",
-        "msproductuat.download.prss.microsoft.com",
         "myvs.download.prss.microsoft.com",
         "oemsoc.download.prss.microsoft.com",
         "oemsocuat.download.prss.microsoft.com",
@@ -61,7 +60,6 @@
         "vscode.download.prss.microsoft.com",
         "vz.download.prss.microsoft.com",
         "windbg.download.prss.microsoft.com",
-        "wscont1.apps.microsoft.com",
         "wscont2.apps.microsoft.com"
       ]
     }
