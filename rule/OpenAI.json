@@ -9,6 +9,9 @@
         "aistudio.google.com",
         "alkalicore-pa.clients6.google.com",
         "alkalimakersuite-pa.clients6.google.com",
+        "anthropic-com.ghost.io",
+        "anthropic.auth0.com",
+        "anthropic.com.cdn.cloudflare.net",
         "antigravity-unleash.goog",
         "antigravity.google",
         "api-iam.intercom.io",
@@ -22,6 +25,7 @@
         "assets.msn.com",
         "bard.google.com",
         "browser-intake-datadoghq.com",
+        "browser-intake-us5-datadoghq.com",
         "cdn.usefathom.com",
         "chat.openai.com.cdn.cloudflare.net",
         "copilot.microsoft.com",
@@ -51,6 +55,7 @@
         "r.bing.com",
         "robinfrontend-pa.googleapis.com",
         "self.events.data.microsoft.com",
+        "servd-anthropic-website.b-cdn.net",
         "services.bingapis.com",
         "static.cloudflareinsights.com",
         "sydney.bing.com",
@@ -83,8 +88,12 @@
         "chatgpt.livekit.cloud",
         "cici.com",
         "ciciai.com",
+        "clau.de",
         "claude.ai",
         "claude.com",
+        "claudemcpclient.com",
+        "claudemcpcontent.com",
+        "claudeusercontent.com",
         "client-api.arkoselabs.com",
         "clientstream.launchdarkly.com",
         "clipdrop.co",
@@ -167,7 +176,9 @@
     {
       "ip_cidr": [
         "129.146.3.78/32",
+        "160.79.104.0/21",
         "24.199.123.28/32",
+        "2607:6BC0::/32",
         "64.23.132.171/32"
       ]
     }
